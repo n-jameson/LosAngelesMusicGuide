@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <!-- Background color for the Venues category -->
+    <color name="category_venues">#832d2f</color>
+
+    <!-- Background color for the Studios category -->
+    <color name="category_studios">#221e87</color>
+
+    <!-- Background color for the Stores category -->
+    <color name="category_stores">#806e17</color>
+
+    <!-- Background color for the Iconic Locations category -->
+    <color name="category_iconic_locations">#6cb4b3</color>
+
+
+</resources>

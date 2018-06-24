@@ -1,0 +1,93 @@
+<resources>
+    <string name="app_name">Los Angeles Music Guide</string>
+    <string name="venues">Venues</string>
+    <string name="studios">Studios</string>
+    <string name="stores">Stores</string>
+    <string name="iconic_locations">Iconic Locations</string>
+
+    <string name="studio_one_name">Capitol Studios</string>
+    <string name="studio_one_address">1750 Vine St, Los Angeles, CA 90028</string>
+    <string name="studio_one_description">Since its completion in 1956, Capitol Studios
+        has been a staple of the recording industry. Iconic artists like Frank Sinatra,
+        Nat King Cole and The Beach Boys first gave life to its rooms and to this day,
+        major icons of popular music continue in their wake.</string>
+
+    <string name="studio_two_name">Conway Studios</string>
+    <string name="studio_two_address">5100 Melrose Ave, Hollywood, CA 90038</string>
+    <string name="studio_two_description">It started in 1972 as an eight track mastering
+        studio, and was later purchased by Buddy and Susan Brundo in 1976. Since then,
+        the studio complex has been rebuilt from the ground up by studio designer and
+        architect Vincent Van Haaff.</string>
+
+    <string name="studio_three_name">EastWest Studios</string>
+    <string name="studio_three_address">6000 Sunset Blvd, Los Angeles, CA 90028</string>
+    <string name="studio_three_description">EastWest Studios (formerly known as Western
+        Studio, a component of United Western Recorders and later Ocean Way Recording)
+        is a recording studio complex located at 6000 West Sunset Boulevard in Hollywood.
+        Originally constructed by Bill Putnam in the 1960s, the studios are currently owned
+        by sound developer Doug Rogers and managed by Candace Stewart.</string>
+
+    <string name="venue_one_name">The Forum</string>
+    <string name="venue_one_address">3900 W Manchester Blvd, Inglewood, CA 90305</string>
+    <string name="venue_one_description">The Forum became a landmark in greater Los Angeles,
+        largely due to the Lakers\' success and the Hollywood celebrities often seen there.
+        It hosted tennis matches, music concerts, boxing matches and U. S. political events.
+        The arena is sometimes called the "Los Angeles Forum" or the "L. A. Forum" to distinguish
+        it from other places with the name "Forum".</string>
+
+    <string name="venue_two_name">Hollywood Bowl</string>
+    <string name="venue_two_address">2301 N Highland Ave, Los Angeles, CA 90068</string>
+    <string name="venue_two_description">The Hollywood Bowl is known for its band shell,
+        a distinctive set of concentric arches that graced the site from 1929 through 2003,
+        before being replaced with a larger one beginning in the 2004 season. The shell is set
+        against the backdrop of the Hollywood Hills and the famous Hollywood Sign to the northeast.</string>
+
+    <string name="venue_three_name">Royce Hall</string>
+    <string name="venue_three_address">10745 Dickson Ct, Los Angeles, CA 90095</string>
+    <string name="venue_three_description">This twin-towered concert hall remains the best known UCLA landmark.
+        The 1800-seat auditorium was designed for speech acoustics, but by 1982 it emerged from successive remodelings
+        as a regionally important concert hall and the main performing arts facility of the university.</string>
+
+    <string name="store_one_name">Amoeba Music</string>
+    <string name="store_one_address">6400 W Sunset Blvd, Los Angeles, CA 90028 </string>
+    <string name="store_one_description">This is the largest independent record store in
+        the country, and it is very much alive. The variety of stock (CDs and DVDs, new
+        and used) is awesome, the prices are fair and the staff know their onions.</string>
+
+    <string name="store_two_name">Truetone Music</string>
+    <string name="store_two_address">5100 Melrose Ave, Hollywood, CA 90038 </string>
+    <string name="store_two_description">Nearly every inch of this Santa Monica shop is
+        covered in stringed instruments and accessories. You\'ll mostly see electric
+        guitars here, alongside acoustic guitars and basses—plus some slightly esoteric
+        instruments, from cigar box guitars to baby sitars. In addition, the store offers
+        repairs, lessons and custom pedalboards.</string>
+
+    <string name="store_three_name">Caveman Vintage Music</string>
+    <string name="store_three_address">3231 N Main St, Los Angeles, CA 90031 </string>
+    <string name="store_three_description">As the name implies, the inventory here is
+        largely vintage, with a particularly a handsome supply of old microphones. The shop
+        also offers repairs on stringed instruments, as well as everything from tube
+        amps to combo organs.</string>
+
+    <string name="iconic_location_one_name">RockWalk</string>
+    <string name="iconic_location_one_address">7425 Sunset Blvd, Los Angeles, CA 90046</string>
+    <string name="iconic_location_one_description">Like a small version of courtyard at Grauman\'s
+        Chinese Theatre, this little patio contains the handprints of numerous celebrities. But these
+        celebrities aren\'t movie stars - they're rock musicians and guitar greats.</string>
+
+    <string name="iconic_location_two_name">Whiskey A Go Go</string>
+    <string name="iconic_location_two_address">8901 Sunset Blvd, West Hollywood, CA 90069</string>
+    <string name="iconic_location_two_description">The club has been the launching pad for bands including
+        Iggy And The Stooges, The Doors, No Doubt, System of a Down, Van Halen, Guns N\' Roses, and Mötley Crüe.
+        In 2006, the venue was inducted into the Rock and Roll Hall of Fame.</string>
+
+    <string name="iconic_location_three_name">Hollywood Sign</string>
+    <string name="iconic_location_three_address">Los Angeles, CA 90068</string>
+    <string name="iconic_location_three_description">he Hollywood Sign is an American landmark and cultural
+        icon located in Los Angeles, California. It is situated on Mount Lee, in the Hollywood Hills area
+        of the Santa Monica Mountains. The sign overlooks Hollywood, Los Angeles.</string>
+
+
+
+
+</resources>
