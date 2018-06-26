@@ -35,21 +35,21 @@ public class Items {
     /**
      * Get the string resource ID for the default translation of the word.
      */
-    public int getNameOfLocationID() {
+    public int getNameOfLocation() {
         return mNameOfLocationID;
     }
 
     /**
      * Get the string resource ID for the Miwok translation of the word.
      */
-    public int getAddressID() {
+    public int getAddress() {
         return mAddressID;
     }
 
     /**
      * Return the image resource ID of the word.
      */
-    public int getDescriptionID() {
+    public int getDescription() {
         return mDescriptionID;
     }
 

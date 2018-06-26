@@ -73,7 +73,7 @@
     <string name="iconic_location_one_address">7425 Sunset Blvd, Los Angeles, CA 90046</string>
     <string name="iconic_location_one_description">Like a small version of courtyard at Grauman\'s
         Chinese Theatre, this little patio contains the handprints of numerous celebrities. But these
-        celebrities aren\'t movie stars - they're rock musicians and guitar greats.</string>
+        celebrities aren\'t movie stars - they\'re rock musicians and guitar greats.</string>
 
     <string name="iconic_location_two_name">Whiskey A Go Go</string>
     <string name="iconic_location_two_address">8901 Sunset Blvd, West Hollywood, CA 90069</string>
@@ -83,7 +83,7 @@
 
     <string name="iconic_location_three_name">Hollywood Sign</string>
     <string name="iconic_location_three_address">Los Angeles, CA 90068</string>
-    <string name="iconic_location_three_description">he Hollywood Sign is an American landmark and cultural
+    <string name="iconic_location_three_description">The Hollywood Sign is an American landmark and cultural
         icon located in Los Angeles, California. It is situated on Mount Lee, in the Hollywood Hills area
         of the Santa Monica Mountains. The sign overlooks Hollywood, Los Angeles.</string>
 
