@@ -1,34 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:orientation="vertical"
-    tools:context=".MainActivity">
+    tools:context="com.example.android.losangelesmusicguide.MainActivity">
 
-    <TextView
-        android:id="@+id/venues"
-        style="@style/CategoryStyle"
-        android:background="@color/category_venues"
-        android:text="@string/venues" />
+    <android.support.v4.view.ViewPager
+        android:id="@+id/viewpager"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
 
-    <TextView
-        android:id="@+id/studios"
-        style="@style/CategoryStyle"
-        android:background="@color/category_studios"
-        android:text="@string/studios" />
 
-    <TextView
-        android:id="@+id/stores"
-        style="@style/CategoryStyle"
-        android:background="@color/category_stores"
-        android:text="@string/stores" />
 
-    <TextView
-        android:id="@+id/iconic_locations"
-        style="@style/CategoryStyle"
-        android:background="@color/category_iconic_locations"
-        android:text="@string/iconic_locations" />
 
 </LinearLayout>
