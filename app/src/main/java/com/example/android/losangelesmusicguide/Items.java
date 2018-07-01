@@ -33,28 +33,28 @@ public class Items {
 
 
     /**
-     * Get the string resource ID for the default translation of the word.
+     * Get the string resource ID for the name of the location item
      */
     public int getNameOfLocation() {
         return mNameOfLocationID;
     }
 
     /**
-     * Get the string resource ID for the Miwok translation of the word.
+     * Get the string resource ID for the address of the location item
      */
     public int getAddress() {
         return mAddressID;
     }
 
     /**
-     * Return the image resource ID of the word.
+     * Get the string resource ID for the description of the location item
      */
     public int getDescription() {
         return mDescriptionID;
     }
 
     /**
-     * Return the audio resource ID of the word.
+     * Get the image resource ID for the picture of the location item
      */
     public int getImageResourceId() {
         return mImageResourceID;

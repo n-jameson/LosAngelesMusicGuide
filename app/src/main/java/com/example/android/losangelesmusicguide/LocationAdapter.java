@@ -38,7 +38,7 @@ public class LocationAdapter extends ArrayAdapter<Items> {
                     R.layout.location_item, parent, false);
         }
 
-        // Get the {@link Word} object located at this position in the list
+        // Get the {@link Items} object located at this position in the list
         Items currentLocation = getItem(position);
 
         // Find the ImageView in the location_item.xml layout with the ID location_picture

@@ -6,6 +6,8 @@ import android.support.v4.app.FragmentPagerAdapter;
 
 public class SimpleFragmentPagerAdapter extends FragmentPagerAdapter {
 
+    // Created an array of Strings for the titles
+    // of each fragment to be used in the Tab Layout
     private String tabTitles[] = new String[] { "Iconic Locations", "Studios", "Venues", "Stores" };
 
     public SimpleFragmentPagerAdapter(FragmentManager fm) {
