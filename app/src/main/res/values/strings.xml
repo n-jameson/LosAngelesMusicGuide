@@ -87,8 +87,9 @@
         icon located in Los Angeles, California. It is situated on Mount Lee, in the Hollywood Hills area
         of the Santa Monica Mountains. The sign overlooks Hollywood, Los Angeles.</string>
 
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="test_name">Test Name</string>
+    <string name="test_address">666 Test Address, \nLos Angeles, CA 90210</string>
+    <string name="test_description">This is a string, This is a string, This is a string, This is a string, This is a string, This is a string, This is a string, This is a string, This is a string, This is a string, This is a string, This is a string, This is a string, This is a string, This is a string, This is a string, This is a string, This is a string, This is a string, This is a string, This is a string, </string>
 
 
 </resources>
