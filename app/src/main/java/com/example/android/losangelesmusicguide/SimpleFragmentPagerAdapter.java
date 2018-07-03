@@ -1,17 +1,19 @@
 package com.example.android.losangelesmusicguide;
 
+import android.app.Activity;
+import android.content.Context;
+import android.content.res.Resources;
 import android.support.v4.app.Fragment;
 import android.support.v4.app.FragmentManager;
 import android.support.v4.app.FragmentPagerAdapter;
 
 public class SimpleFragmentPagerAdapter extends FragmentPagerAdapter {
 
-    // Created an array of Strings for the titles
-    // of each fragment to be used in the Tab Layout
-    private String tabTitles[] = new String[] { "Iconic Locations", "Studios", "Venues", "Stores" };
+    private Context mContext;
 
-    public SimpleFragmentPagerAdapter(FragmentManager fm) {
+    public SimpleFragmentPagerAdapter(Context context, FragmentManager fm) {
         super(fm);
+        mContext = context;
     }
 
     @Override
@@ -34,7 +36,14 @@ public class SimpleFragmentPagerAdapter extends FragmentPagerAdapter {
 
     @Override
     public CharSequence getPageTitle(int position) {
-        // Generate title based on item position
-        return tabTitles[position];
+        if (position == 0) {
+            return mContext.getString(R.string.iconic_locations_name);
+        } else if (position == 1) {
+            return mContext.getString(R.string.studios_name);
+        } else if (position == 2) {
+            return mContext.getString(R.string.venues_name);
+        } else {
+            return mContext.getString(R.string.stores_name);
+        }
     }
 }

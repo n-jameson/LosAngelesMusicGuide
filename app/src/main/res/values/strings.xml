@@ -91,5 +91,10 @@
     <string name="test_address">666 Test Address, \nLos Angeles, CA 90210</string>
     <string name="test_description">This is a string, This is a string, This is a string, This is a string, This is a string, This is a string, This is a string, This is a string, This is a string, This is a string, This is a string, This is a string, This is a string, This is a string, This is a string, This is a string, This is a string, This is a string, This is a string, This is a string, This is a string, </string>
 
+    <string name="iconic_locations_name">Iconic Locations</string>
+    <string name="studios_name">Studios</string>
+    <string name="venues_name">Venues</string>
+    <string name="stores_name">Stores</string>
+
 
 </resources>
